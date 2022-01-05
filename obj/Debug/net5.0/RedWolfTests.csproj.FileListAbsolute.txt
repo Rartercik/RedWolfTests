@@ -1,0 +1,16 @@
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\bin\Debug\net5.0\RedWolfTests.exe
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\bin\Debug\net5.0\RedWolfTests.deps.json
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\bin\Debug\net5.0\RedWolfTests.runtimeconfig.json
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\bin\Debug\net5.0\RedWolfTests.runtimeconfig.dev.json
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\bin\Debug\net5.0\RedWolfTests.dll
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\bin\Debug\net5.0\ref\RedWolfTests.dll
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\bin\Debug\net5.0\RedWolfTests.pdb
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\obj\Debug\net5.0\RedWolfTests.csproj.AssemblyReference.cache
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\obj\Debug\net5.0\RedWolfTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\obj\Debug\net5.0\RedWolfTests.AssemblyInfoInputs.cache
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\obj\Debug\net5.0\RedWolfTests.AssemblyInfo.cs
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\obj\Debug\net5.0\RedWolfTests.csproj.CoreCompileInputs.cache
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\obj\Debug\net5.0\RedWolfTests.dll
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\obj\Debug\net5.0\ref\RedWolfTests.dll
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\obj\Debug\net5.0\RedWolfTests.pdb
+C:\Users\Арсен\source\repos\RedWolfTests\RedWolfTests\obj\Debug\net5.0\RedWolfTests.genruntimeconfig.cache
